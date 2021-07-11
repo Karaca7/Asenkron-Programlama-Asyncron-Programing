@@ -5,7 +5,7 @@ Neyse devam edelim !
 Bu tanımlama biraz değilleme gibi olacak ama kusura bakmayın.
 Bir fonksiyonun methodun  artık her neyse birbirlerinin sonuçlarını beklemeden sırasız olarak çalıştığı programlama biçimidir. Burada programımız doğrusal bir akışta çalışmaz.
 
-
+<img align="left" width="900" height="500" src="https://github.com/Karaca12/Asenkron-Programlama-Asyncron-Programing/blob/main/asynkronprogramlama.png">
 Bu tanımın size hiçbir faydası olmaz. 
 
 
