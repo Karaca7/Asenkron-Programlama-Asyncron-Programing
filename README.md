@@ -15,7 +15,7 @@ Hastaneye gittiniz.
 Doktor sizi muayene etti ve ilacınızı yazdı. 
 **Doktor sizi muayene ettikten sonra "Yok kardeşim ben bu adam iyilene kadar başka hiç kimseyi muayene etmeyeceğim (başka işlem yapmayacaım)!"** demez.
 <br>
-**Siz gönderdikten sonra hemen başka bir hasta alır (muayene eder)(İşlemleri gerçekleştirir) ve onuda gönderir .Sonra başka bir hasta, sonra başka bir hasta...
+**Siz gönderdikten sonra hemen başka bir hasta alır (muayene eder)(İşlemleri gerçekleştirir) ve onuda gönderir .Sonra başka bir hasta, sonra başka bir hasta...**
 
  Dikkat edilmesi gereken nokta burasıdır doktor burda asenkron çalışır. Bunu büyütecek Göklere çıkarıcak bir şey değildir. 
 
