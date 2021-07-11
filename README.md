@@ -101,6 +101,11 @@ bunun yorumlayıcımızın  bu bir asenkron fonksiyon/method olduğunun farkına
 
 
         asyncio.run(doktor())
+        
+        
+"asyncio.create_task(fonksiyon_adı)" --> bu bize asnkron görev atamamıza çalışacak fonkisyonların geçrekten asenkron çalışmasına yaryan fonskiyondur. 
+
+asyncio.run(ana fonksiyon())  -->run da asnkron çalışan fonksiyonları koşturmaya yarıyan fonksiyondur. yazdığım notlarda başka çalıştırma tiplerini görebilrisiniz.  bu koduda yüklüyorum . Umarım faydası olmuştur. 
     
 
 
