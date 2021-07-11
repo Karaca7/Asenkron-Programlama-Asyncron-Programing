@@ -6,15 +6,11 @@ Bu tanımlama biraz değilleme gibi olacak ama kusura bakmayın.
 Bir fonksiyonun methodun  artık her neyse birbirlerinin sonuçlarını beklemeden sırasız olarak çalıştığı programlama biçimidir. Burada programımız doğrusal bir akışta çalışmaz.
 <br>
 <img align="left" width="300" height="300" src="https://github.com/Karaca12/Asenkron-Programlama-Asyncron-Programing/blob/main/asynkronprogramlama.png">
+
+
 Bu tanımın size hiçbir faydası olmaz. 
 
 <br>
-
-
-
-
-
-
 
 
 ### Örnek:
@@ -22,7 +18,7 @@ Bu tanımın size hiçbir faydası olmaz.
 Hastaneye gittiniz. 
 Doktor sizi muayene etti ve ilacınızı yazdı. 
 **Doktor sizi muayene ettikten sonra "Yok kardeşim ben bu adam iyileşene kadar başka hiç kimseyi muayene etmeyeceğim (başka işlem yapmayacaım)!"** demez.
-<br>
+
 **Siz gönderdikten sonra hemen başka bir hasta alır (muayene eder)(İşlemleri gerçekleştirir) ve onuda gönderir .Sonra başka bir hasta, sonra başka bir hasta...**
 
  **Dikkat edilmesi gereken nokta burasıdır doktor burda asenkron çalışır. Bunu büyütecek Göklere çıkarıcak bir şey değildir. ***
