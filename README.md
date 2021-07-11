@@ -14,6 +14,12 @@ Bu tanımın size hiçbir faydası olmaz.
 <br><br><br><br>
 
 
+
+
+
+
+
+
 ### Örnek:
 
 Hastaneye gittiniz. 
