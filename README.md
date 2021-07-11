@@ -4,12 +4,16 @@ Neyse devam edelim !
 ## Tanım:
 Bu tanımlama biraz değilleme gibi olacak ama kusura bakmayın.
 Bir fonksiyonun methodun  artık her neyse birbirlerinin sonuçlarını beklemeden sırasız olarak çalıştığı programlama biçimidir. Burada programımız doğrusal bir akışta çalışmaz.
+
+
 <br><br>
 
 <img align="left" width="300" height="300" src="https://github.com/Karaca12/Asenkron-Programlama-Asyncron-Programing/blob/main/asynkronprogramlama.png">
 Bu tanımın size hiçbir faydası olmaz. 
 
 <br><br>
+
+
 ### Örnek:
 
 Hastaneye gittiniz. 
