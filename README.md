@@ -24,5 +24,5 @@ Doktor sizi muayene etti ve ilacınızı yazdı.
 Umarım derdimi analta bilmişimdir. 
 
 Şimdi pastanın malzemelerine bir göz gezdirelim !
-<br>
+
     import asyncio
