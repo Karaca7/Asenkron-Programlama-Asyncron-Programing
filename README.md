@@ -24,5 +24,15 @@ Doktor sizi muayene etti ve ilacınızı yazdı.
 Umarım derdimi analta bilmişimdir. 
 
 Şimdi pastanın malzemelerine bir göz gezdirelim !
+### Anahtar kelimeler/Keywords
+#### asyncio:
 
     import asyncio
+
+asyncron programlama yapabilmemiz için python dan bununla ilgli bir araca ihtiyacımız var. Bunun yapabilmenin bir kaç yolu daha var fakat bu yol bana daha basit ve anlaşılır geliyor.
+
+#### async def x():
+
+
+
+
