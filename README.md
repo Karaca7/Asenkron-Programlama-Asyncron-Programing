@@ -8,7 +8,7 @@ Bir fonksiyonun methodun  artık her neyse birbirlerinin sonuçlarını beklemed
 
 <br>
 
-<img align="left" width="500" height="300" src="https://github.com/Karaca12/Asenkron-Programlama-Asyncron-Programing/blob/main/asynkronprogramlama.png">
+<img align="left" width="300" height="300" src="https://github.com/Karaca12/Asenkron-Programlama-Asyncron-Programing/blob/main/asynkronprogramlama.png">
 Bu tanımın size hiçbir faydası olmaz. 
 
 <br><br><br><br>
