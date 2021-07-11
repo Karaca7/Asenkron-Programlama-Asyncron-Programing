@@ -21,7 +21,7 @@ Doktor sizi muayene etti ve ilacınızı yazdı.
 
 **Siz gönderdikten sonra hemen başka bir hasta alır (muayene eder)(İşlemleri gerçekleştirir) ve onuda gönderir .Sonra başka bir hasta, sonra başka bir hasta...**
 
- **Dikkat edilmesi gereken nokta burasıdır doktor burda asenkron çalışır. Bunu büyütecek Göklere çıkarıcak bir şey değildir.**
+ **Dikkat edilmesi gereken nokta burasıdır doktor burda asenkron çalışır.**
 
 **Sonra sizin kontrol vaktiniz gelir ve doktor. sizi tekrar çağırı ,arar ve sizi muayene eder(tekrar işlemleri kontrol eder) iyileşmişseniz işlemi burada bitirir. iyileşmemişseniz tekrar ilaç yazar ve siz gittiğinizde başka hastaları kontorl etmeye devam eder.Siz iyleşmiş olsaydınızda doktor hastaları muayene etmeye devam edecekti. Tabi bunu biz yazdığımız kodda bitir demiş olmasaydık.
 
