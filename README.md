@@ -17,7 +17,7 @@ Bu tanımın size hiçbir faydası olmaz.
 
 Hastaneye gittiniz. 
 Doktor sizi muayene etti ve ilacınızı yazdı. 
-**Doktor sizi muayene ettikten sonra "Yok kardeşim ben bu adam iyileşene kadar başka hiç kimseyi muayene etmeyeceğim (başka işlem yapmayacaım)!"** demez.
+**Doktor sizi muayene ettikten sonra "Yok kardeşim ben bu adam iyileşene kadar başka hiç kimseyi muayene etmeyeceğim (başka işlem yapmayacağım)!"** demez.
 
 **Siz gönderdikten sonra hemen başka bir hasta alır (muayene eder)(İşlemleri gerçekleştirir) ve onuda gönderir .Sonra başka bir hasta, sonra başka bir hasta...**
 
