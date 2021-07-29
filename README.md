@@ -51,7 +51,7 @@ bunun yorumlayıcımızın  bu bir asenkron fonksiyon/method olduğunun farkına
 #### await :
 
     async def xfonksiyonu():
-         print("ıvır zırı")
+         print("ıvır zıvır")
          awat asyncio.sleep(3)
          await yfosnkiyon()
          
