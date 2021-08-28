@@ -12,7 +12,6 @@ Bu tanımın size hiçbir faydası olmaz.
 
 <br>
 
-
 ### Örnek:
 
 Hastaneye gittiniz. 
