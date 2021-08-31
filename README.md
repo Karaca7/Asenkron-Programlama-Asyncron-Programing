@@ -113,8 +113,3 @@ asyncio.run(ana fonksiyon())  -->run da asnkron çalışan fonksiyonları koştu
 
 
 
-
-
-
-
-
